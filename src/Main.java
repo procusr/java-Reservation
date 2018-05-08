@@ -3,7 +3,7 @@ import java.util.*;
 public class Main {
     //instance variables
     private Scanner input = new Scanner(System.in);
-    Passenger[] passengers = new Passenger[5];
+    Passenger[] passengers = new Passenger[100];
     Passenger passenger;
 
     public static void main(String[] args) {
